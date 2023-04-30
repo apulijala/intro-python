@@ -1,8 +1,11 @@
 # divmod returns quotient and reminder.
+# use divmod to find quotient and reminder for 9 and 5.
 result = divmod(9,5)
 print(f"result = {result}")
 
 # chr functions the character whose value is value.
+# chr value for example chr(mynum)
+# ord value is ord(mychar) will return a number.
 """
 for mynum in range(30,127):
     mychar = chr(mynum)
@@ -12,15 +15,19 @@ for mynum in range(30,127):
 
 # Convert a string to any base itneger and will return value to base 10
 print(f"101 in base 3 is int('10',2)")
+# int function will convert a string to number.
 result = int('101',2)
 print(f"base 2 result is {result}")
 
+#
 result = int('10',22)
 print(f"base 2 result is {result}")
+
+# Convert String 10 to base 16
 result = int('10',16)
 print(f"Converting 10 to base 16 {result}")
 
-
+# Convert number 100 to base 16
 result = int('100',16)
 print(f"Converting 100 to base 16 {result}")
 

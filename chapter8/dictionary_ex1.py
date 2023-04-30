@@ -238,8 +238,6 @@ my_set.add(4)
 print(my_set)
 
 
-
-
 # Delete an item with remove() function.
 # remove 3 from the above set.
 my_set.remove(3)

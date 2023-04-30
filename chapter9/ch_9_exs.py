@@ -1,4 +1,4 @@
-Things to Do
+
 """
 9.1 Define a function called good() that returns the following list: ['Harry', 'Ron', 'Hermione'].
 """
