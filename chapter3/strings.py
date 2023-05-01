@@ -167,3 +167,6 @@ print(f"The {thing} is in the {place}")
 # Alignment in space. :> for right alignmetn, :< for left alignment.
 # :^ is for center alignment. To surround with a character :.^
 print(f"The {thing:>20s} is in the {place:.^20s}")
+
+# lower, upper, swapcase, title()
+# center(), ljust(), rjust()

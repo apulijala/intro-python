@@ -32,5 +32,7 @@ example: range(10,16,2) will print 10, 12, 14 ,16.
 2. int('10',16) will convert 10 to base 16. Result will be 16. int('10', 2) will convert 10 to base 2. 
 Result will be 2.
 
-3. 
+3. chr method. Converts number to a character.
+
+4.ord method. Converts character to a number.
 """
